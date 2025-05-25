@@ -1,0 +1,127 @@
+Character 1 (1): 
+Character 2 (2): 
+Character 3 (3): 
+Character 4 (4): 
+Character 5 (5): 
+Character 6 (6): 
+Character 7 (7): 
+Character 8 (8): 
+Character 9 (9): 	
+Character 10 (10): 
+
+Character 11 (11): 
+Character 12 (12): 
+Character 13 (13): 
+Character 14 (14): 
+Character 15 (15): 
+Character 16 (16): 
+Character 17 (17): 
+Character 18 (18): 
+Character 19 (19): 
+Character 20 (20): 
+Character 21 (21): 
+Character 22 (22): 
+Character 23 (23): 
+Character 24 (24): 
+Character 25 (25): 
+Character 26 (26): 
+Character 27 (27): 
+Character 28 (28): 
+Character 29 (29): 
+Character 30 (30): 
+Character 31 (31): 
+Character 32 (32):  
+Character 33 (33): !
+Character 34 (34): "
+Character 35 (35): #
+Character 36 (36): $
+Character 37 (37): %
+Character 38 (38): &
+Character 39 (39): '
+Character 40 (40): (
+Character 41 (41): )
+Character 42 (42): *
+Character 43 (43): +
+Character 44 (44): ,
+Character 45 (45): -
+Character 46 (46): .
+Character 47 (47): /
+Character 48 (48): 0
+Character 49 (49): 1
+Character 50 (50): 2
+Character 51 (51): 3
+Character 52 (52): 4
+Character 53 (53): 5
+Character 54 (54): 6
+Character 55 (55): 7
+Character 56 (56): 8
+Character 57 (57): 9
+Character 58 (58): :
+Character 59 (59): ;
+Character 60 (60): <
+Character 61 (61): =
+Character 62 (62): >
+Character 63 (63): ?
+Character 64 (64): @
+Character 65 (65): A
+Character 66 (66): B
+Character 67 (67): C
+Character 68 (68): D
+Character 69 (69): E
+Character 70 (70): F
+Character 71 (71): G
+Character 72 (72): H
+Character 73 (73): I
+Character 74 (74): J
+Character 75 (75): K
+Character 76 (76): L
+Character 77 (77): M
+Character 78 (78): N
+Character 79 (79): O
+Character 80 (80): P
+Character 81 (81): Q
+Character 82 (82): R
+Character 83 (83): S
+Character 84 (84): T
+Character 85 (85): U
+Character 86 (86): V
+Character 87 (87): W
+Character 88 (88): X
+Character 89 (89): Y
+Character 90 (90): Z
+Character 91 (91): [
+Character 92 (92): \
+Character 93 (93): ]
+Character 94 (94): ^
+Character 95 (95): _
+Character 96 (96): `
+Character 97 (97): a
+Character 98 (98): b
+Character 99 (99): c
+Character 100 (100): d
+Character 101 (101): e
+Character 102 (102): f
+Character 103 (103): g
+Character 104 (104): h
+Character 105 (105): i
+Character 106 (106): j
+Character 107 (107): k
+Character 108 (108): l
+Character 109 (109): m
+Character 110 (110): n
+Character 111 (111): o
+Character 112 (112): p
+Character 113 (113): q
+Character 114 (114): r
+Character 115 (115): s
+Character 116 (116): t
+Character 117 (117): u
+Character 118 (118): v
+Character 119 (119): w
+Character 120 (120): x
+Character 121 (121): y
+Character 122 (122): z
+Character 123 (123): {
+Character 124 (124): |
+Character 125 (125): }
+Character 126 (126): ~
